@@ -1,0 +1,40 @@
+{
+  "categories": [
+    "All",
+    "Logo Design",
+    "Shopify Stores",
+    "Social Media Designs",
+    "Advertising Creatives",
+    "Packaging Design"
+  ],
+  "_note": "Har item me `image` (public/images/projects/...) aur `url` hai. url ko real link do to click par link khulega; `#` ya khaali rakho to image zoom popup me khulegi. Naya graphic lagane ke liye same filename se image replace karo.",
+  "items": [
+    { "name": "Aether Coffee Co.", "category": "Logo Design", "image": "/images/projects/logo-01.webp", "url": "#" },
+    { "name": "Sienna Fine Jewelry", "category": "Logo Design", "image": "/images/projects/logo-02.webp", "url": "#" },
+    { "name": "Verdant Botanics", "category": "Logo Design", "image": "/images/projects/logo-03.webp", "url": "#" },
+    { "name": "Northwind Apparel", "category": "Logo Design", "image": "/images/projects/logo-04.webp", "url": "#" },
+    { "name": "Ember & Oak", "category": "Logo Design", "image": "/images/projects/logo-05.webp", "url": "#" },
+    { "name": "Lumen Creative", "category": "Logo Design", "image": "/images/projects/logo-06.webp", "url": "#" },
+
+    { "name": "Nova Apparel Store", "category": "Shopify Stores", "image": "/images/projects/shopify-01.webp", "url": "#" },
+    { "name": "Verde Organics", "category": "Shopify Stores", "image": "/images/projects/shopify-02.webp", "url": "#" },
+    { "name": "Frost Activewear", "category": "Shopify Stores", "image": "/images/projects/shopify-03.webp", "url": "#" },
+    { "name": "Bloom Beauty", "category": "Shopify Stores", "image": "/images/projects/shopify-04.webp", "url": "#" },
+    { "name": "Urban Carry", "category": "Shopify Stores", "image": "/images/projects/shopify-05.webp", "url": "#" },
+    { "name": "Peak Nutrition", "category": "Shopify Stores", "image": "/images/projects/shopify-06.webp", "url": "#" },
+
+    { "name": "Pulse Fitness Club", "category": "Social Media Designs", "image": "/images/projects/social-01.webp", "url": "#" },
+    { "name": "Halcyon Studio", "category": "Social Media Designs", "image": "/images/projects/social-02.webp", "url": "#" },
+    { "name": "Zest Cafe", "category": "Social Media Designs", "image": "/images/projects/social-03.webp", "url": "#" },
+    { "name": "Vivid Media", "category": "Social Media Designs", "image": "/images/projects/social-04.webp", "url": "#" },
+
+    { "name": "Bloom Florals", "category": "Advertising Creatives", "image": "/images/projects/ads-01.webp", "url": "#" },
+    { "name": "Drift Eyewear", "category": "Advertising Creatives", "image": "/images/projects/ads-02.webp", "url": "#" },
+    { "name": "Motion Motors", "category": "Advertising Creatives", "image": "/images/projects/ads-03.webp", "url": "#" },
+    { "name": "Spark Electronics", "category": "Advertising Creatives", "image": "/images/projects/ads-04.webp", "url": "#" },
+
+    { "name": "Lumen Skincare", "category": "Packaging Design", "image": "/images/projects/packaging-01.webp", "url": "#" },
+    { "name": "Frothé Beverages", "category": "Packaging Design", "image": "/images/projects/packaging-02.webp", "url": "#" },
+    { "name": "Terra Tea Co.", "category": "Packaging Design", "image": "/images/projects/packaging-03.webp", "url": "#" }
+  ]
+}
