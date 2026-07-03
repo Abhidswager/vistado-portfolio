@@ -80,6 +80,28 @@ export default function Hero() {
           <a href="#portfolio" style={{ textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: 12, background: BRAND_GRAD, color: '#fff', fontWeight: 600, fontSize: 15, padding: '16px 26px', borderRadius: 999, boxShadow: '0 18px 38px -14px rgba(255,90,31,0.65)' }}>
             View Portfolio <span style={{ fontSize: 17 }}>↗</span>
           </a>
+          <a
+  href="/resume/Abhishek-Sharma-Resume.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+  download
+  style={{
+    textDecoration: 'none',
+    display: 'inline-flex',
+    alignItems: 'center',
+    gap: 12,
+    background: '#15140F',
+    color: '#fff',
+    fontWeight: 600,
+    fontSize: 15,
+    padding: '16px 26px',
+    borderRadius: 999,
+    border: '1px solid rgba(20,18,12,0.1)',
+    transition: 'all .3s ease'
+  }}
+>
+  ⬇ Download Resume
+</a>
           <a href="#contact" style={{ textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: 12, background: '#fff', color: '#15140F', fontWeight: 600, fontSize: 15, padding: '16px 26px', borderRadius: 999, border: '1px solid rgba(20,18,12,0.1)' }}>
             Hire Me
           </a>
